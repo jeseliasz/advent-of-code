@@ -1,2 +1,1 @@
-# advent-of-code
-Solutions to Advent of Code 
+This repo contains my solutions to the Advent of Code challenge. 
